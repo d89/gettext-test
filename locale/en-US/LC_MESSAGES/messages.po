@@ -16,7 +16,7 @@ msgstr ""
 
 #: index.php:21
 msgid "Hello world"
-msgstr "Howdy Worlddd"
+msgstr "Howdy Worldxyz"
 
 #: index.php:22
 msgid "How are you?"
