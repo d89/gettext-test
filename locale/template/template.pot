@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+#: index.php:20
+msgid "Hello world"
+msgstr ""
+
+#: index.php:21
+#, php-format
+msgid "%d car"
+msgid_plural "%d cars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: index.php:22
+msgid "How are you?"
+msgstr ""
